@@ -1,3 +1,3 @@
 # odin-recipes
 
-Will be making a Recipe Website for my TOP project
+A Recipe Website for my TOP project
