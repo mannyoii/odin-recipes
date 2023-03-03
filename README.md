@@ -1,4 +1,4 @@
-# odin-recipes
+# odin-recipestheme
 
 A Recipe Website for my TOP project
 

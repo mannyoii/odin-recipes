@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 700;
+}
+
+.recipe-list {
+  color: white;
+  text-align: center;
+}
