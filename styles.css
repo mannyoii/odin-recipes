@@ -12,3 +12,7 @@ body {
   color: white;
   text-align: center;
 }
+
+.recipe-img {
+  width: 400px;
+}
